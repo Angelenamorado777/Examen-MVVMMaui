@@ -1,0 +1,14 @@
+# .NET MAUI
+bin/
+obj/
+
+# Android
+.android/
+.avd/
+
+# Visual Studio
+.vs/
+
+# Sistema
+Thumbs.db
+.DS_Store
